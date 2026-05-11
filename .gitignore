@@ -1,0 +1,9 @@
+.DS_Store
+~$*
+
+# Protected/local source data
+data/ohca_connected_data.csv
+
+# Local workshop source materials
+workshop-materials/
+jielu_zhang_workshop.pptx
